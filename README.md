@@ -2,7 +2,9 @@
 
 ![Octave in Jupyter](octave.png)
 
-Use the same instructions as the [Minimal Jupyter Notebook Stack](https://github.com/jupyter/docker-stacks/tree/master/minimal-notebook) for running this image.
+Instructions are the same as the [Minimal Jupyter Notebook Stack](https://github.com/jupyter/docker-stacks/tree/master/minimal-notebook) for running this image (on which this is based).
+
+Use `docker.io/rubenv/jupyter-octave` as the image name.
 
 ## Known issues
 
