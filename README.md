@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rubenv/jupyter-octave.git/master?urlpath=lab/)
+
 # Jupyter lab with an Octave kernel
 
 ![Octave in Jupyter](octave.png)
